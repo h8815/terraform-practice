@@ -4,7 +4,7 @@ This repository contains multiple Terraform projects and modules for practicing 
 
 ## 📂 Repository Structure
 
-- **aws_IAM_management/**  
+<!-- - **aws_IAM_management/**  
   Manage AWS IAM users and roles using YAML-based data sources.
 
 - **aws-ec2/**  
@@ -29,16 +29,16 @@ This repository contains multiple Terraform projects and modules for practicing 
   Use data sources to fetch information from providers.
 
 - **tf-for_each/**  
-  Examples using the `for_each` meta-argument.
+  Examples using the `for_each` meta-argument. -->
 
 - **tf-operators-expressions/**  
   Practice with Terraform operators and expressions.
 
-- **tf-own-module-VPC/**  
+<!-- - **tf-own-module-VPC/**  
   Custom VPC module for reusable infrastructure.
 
 - **tf-variables/**  
-  Examples of variable usage in Terraform.
+  Examples of variable usage in Terraform. -->
 
 ---
 
