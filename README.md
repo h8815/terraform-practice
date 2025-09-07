@@ -22,14 +22,14 @@ This repository contains multiple Terraform projects and modules for practicing 
 - **tf-count/**  
   Examples using the `count` meta-argument.
 
-- **tf-create-localFile/**  
-  Create local files using the `local_file` resource.
-
 - **tf-data-source/**  
   Use data sources to fetch information from providers.
 
 - **tf-for_each/**  
   Examples using the `for_each` meta-argument. -->
+
+- **tf-create-localFile/**  
+  Create local files using the `local_file` resource.
 
 - **tf-operators-expressions/**  
   Practice with Terraform operators and expressions.
