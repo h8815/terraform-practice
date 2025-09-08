@@ -34,11 +34,11 @@ This repository contains multiple Terraform projects and modules for practicing 
 - **tf-operators-expressions/**  
   Practice with Terraform operators and expressions.
 
-<!-- - **tf-own-module-VPC/**  
-  Custom VPC module for reusable infrastructure.
-
 - **tf-variables/**  
-  Examples of variable usage in Terraform. -->
+  Examples of variable usage in Terraform. 
+
+<!-- - **tf-own-module-VPC/**  
+  Custom VPC module for reusable infrastructure. -->
 
 ---
 
