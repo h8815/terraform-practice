@@ -4,8 +4,7 @@ This repository contains multiple Terraform projects and modules for practicing 
 
 ## 📂 Repository Structure
 
-<!-- - **aws_IAM_management/**  
-  Manage AWS IAM users and roles using YAML-based data sources.
+<!-- 
 
 - **aws-ec2/**  
   Provision and manage AWS EC2 instances.
@@ -27,6 +26,9 @@ This repository contains multiple Terraform projects and modules for practicing 
 
 - **tf-for_each/**  
   Examples using the `for_each` meta-argument. -->
+
+- **aws_IAM_management/**  
+  Manage AWS IAM users and roles using YAML-based data sources.
 
 - **tf-create-localFile/**  
   Create local files using the `local_file` resource.
