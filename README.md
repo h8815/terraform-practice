@@ -6,9 +6,6 @@ This repository contains multiple Terraform projects and modules for practicing 
 
 <!-- 
 
-- **aws-ec2/**  
-  Provision and manage AWS EC2 instances.
-
 - **aws-remote-state-management/**  
   Demonstrates remote state management using S3 and DynamoDB.
 
@@ -26,6 +23,9 @@ This repository contains multiple Terraform projects and modules for practicing 
 
 - **tf-for_each/**  
   Examples using the `for_each` meta-argument. -->
+
+- **aws-ec2/**  
+  Provision and manage AWS EC2 instances.
 
 - **aws_IAM_management/**  
   Manage AWS IAM users and roles using YAML-based data sources.
