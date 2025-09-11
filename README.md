@@ -9,9 +9,6 @@ This repository contains multiple Terraform projects and modules for practicing 
 - **aws-remote-state-management/**  
   Demonstrates remote state management using S3 and DynamoDB.
 
-- **aws-s3/**  
-  Create S3 buckets and upload objects.
-
 - **aws-vpc/**  
   Practice VPC creation and networking (details inside folder).
 
@@ -26,6 +23,9 @@ This repository contains multiple Terraform projects and modules for practicing 
 
 - **aws-ec2/**  
   Provision and manage AWS EC2 instances.
+
+- **aws-s3/**  
+  Create S3 buckets and upload objects.
 
 - **aws_IAM_management/**  
   Manage AWS IAM users and roles using YAML-based data sources.
