@@ -6,12 +6,6 @@ This repository contains multiple Terraform projects and modules for practicing 
 
 <!-- 
 
-- **aws-remote-state-management/**  
-  Demonstrates remote state management using S3 and DynamoDB.
-
-- **aws-vpc/**  
-  Practice VPC creation and networking (details inside folder).
-
 - **tf-count/**  
   Examples using the `count` meta-argument.
 
@@ -20,6 +14,12 @@ This repository contains multiple Terraform projects and modules for practicing 
 
 - **tf-for_each/**  
   Examples using the `for_each` meta-argument. -->
+
+- **aws-vpc/**  
+  Practice VPC creation and networking (details inside folder).
+
+- **aws-remote-state-management/**  
+  Demonstrates remote state management using S3 and DynamoDB.
 
 - **aws-ec2/**  
   Provision and manage AWS EC2 instances.
