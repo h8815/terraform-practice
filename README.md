@@ -6,14 +6,14 @@ This repository contains multiple Terraform projects and modules for practicing 
 
 <!-- 
 
-- **tf-count/**  
-  Examples using the `count` meta-argument.
-
 - **tf-data-source/**  
   Use data sources to fetch information from providers.
 
 - **tf-for_each/**  
   Examples using the `for_each` meta-argument. -->
+
+- **tf-count/**  
+  Examples using the `count` meta-argument.
 
 - **aws-vpc/**  
   Practice VPC creation and networking (details inside folder).
