@@ -4,43 +4,41 @@ This repository contains multiple Terraform projects and modules for practicing 
 
 ## 📂 Repository Structure
 
-<!-- 
+- **aws_IAM_management/**  
+  Manage AWS IAM users and roles using YAML-based data sources.
+
+- **aws-ec2/**  
+  Provision and manage AWS EC2 instances.
+
+- **aws-remote-state-management/**  
+  Demonstrates remote state management using S3 and DynamoDB.
+
+- **aws-s3/**  
+  Create S3 buckets and upload objects.
+
+- **aws-vpc/**  
+  Practice VPC creation and networking (details inside folder).
+
+- **tf-count/**  
+  Examples using the `count` meta-argument.
+
+- **tf-create-localFile/**  
+  Create local files using the `local_file` resource.
 
 - **tf-data-source/**  
   Use data sources to fetch information from providers.
 
 - **tf-for_each/**  
-  Examples using the `for_each` meta-argument. -->
+  Examples using the `for_each` meta-argument.
 
-- **tf-count/**  
-  Examples using the `count` meta-argument.
-
-- **aws-vpc/**  
-  Practice VPC creation and networking (details inside folder).
-
-- **aws-remote-state-management/**  
-  Demonstrates remote state management using S3 and DynamoDB.
-
-- **aws-ec2/**  
-  Provision and manage AWS EC2 instances.
-
-- **aws-s3/**  
-  Create S3 buckets and upload objects.
-
-- **aws_IAM_management/**  
-  Manage AWS IAM users and roles using YAML-based data sources.
-
-- **tf-create-localFile/**  
-  Create local files using the `local_file` resource.
+- **tf-own-module-VPC/**  
+  Custom VPC module for reusable infrastructure.
 
 - **tf-operators-expressions/**  
   Practice with Terraform operators and expressions.
 
 - **tf-variables/**  
   Examples of variable usage in Terraform. 
-
-<!-- - **tf-own-module-VPC/**  
-  Custom VPC module for reusable infrastructure. -->
 
 ---
 
@@ -157,3 +155,5 @@ terraform apply -var-file="env/dev.tfvars"
   ```
 - Store sensitive variables in `.tfvars` files or use environment variables
 - Use `terraform fmt` and `terraform validate` before committing
+
+---
